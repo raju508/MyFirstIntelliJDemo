@@ -13,5 +13,6 @@ public class Main {
         System.out.println("Checking in directly to master branch");
 		System.out.println("Checking in not directly to master branch");
 		System.out.println("Checking in by creating a pull request");
+		System.out.println("One more line");
 	}
 }
