@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("My first pull request is sucessfull");
 		System.out.println("This is from a different branch");
 	   	System.out.println("Testing out different things");
+        System.out.println("Checking in directly to master branch");
 	}
 }
